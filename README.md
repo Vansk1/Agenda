@@ -7,7 +7,7 @@ Simples agenda de contatos para sistemas Windows, Linux e Mac.
 Vanderson Alves
 
 
-## INstalação da versão de demonstração
+## Instalação da Agenda
 Essas instruções fornecerão uma cópia do projeto instalado e funcionando em sua máquina local.
 ### Pré requisito:
 É necessário ter instalado no computador:
